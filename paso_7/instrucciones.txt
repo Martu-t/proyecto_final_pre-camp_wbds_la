@@ -1,0 +1,5 @@
+¡Ya falta poco! Vamos a jugar un poco más con los archivos comunes en bioinformática
+
+INSTRUCCIONES: Contá cuántas secuencias de 'Homo sapines' tiene en total todos los archivos .fasta de la carpeta y andá al directorio que se corresponda con ese número para saber cómo seguir
+
+

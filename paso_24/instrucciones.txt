@@ -1,0 +1,3 @@
+¡Muy bien! Ahora pongamos algo de condimento al juego.
+
+INSTRUCCIONES: descargá el archivo https://www.alphafold.ebi.ac.uk/entry/F4HVG8 y averiguá cuánto pesa para saber el número del siguiente paso (usa el primer dígito)

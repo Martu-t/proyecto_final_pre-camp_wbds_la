@@ -1,0 +1,6 @@
+
+¡Muy bien!
+Ahora veamos un contenido un poco más bio...
+
+INSTRUCCIÓN: Descargá la secuencia de la siguiente proteína https://www.rcsb.org/fasta/entry/7PND y averiguá cual es contenido de Lisinas (K) que contiene,
+y con ese número, andá al directorio correspondiente y seguí las instrucciones.

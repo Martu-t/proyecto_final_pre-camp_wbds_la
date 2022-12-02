@@ -1,0 +1,39 @@
+
+$ git clone https://github.com/WomenBioinfoDataScLA/proyecto_final_pre-camp_wbds_la-Martu-t.git
+$ cd proyecto_final_pre-camp_wbds_la-Martu-t
+$ ./welcome.sh
+$ cd paso_2 
+$ cat instrucciones.txt 
+$ cd ..
+$ cd paso_5
+$ head -n2 instrucciones.txt
+$ cd ..
+$ cd paso_10
+$ cat instrucciones.txt
+$ curl https://www.gnu.org/licenses/gpl-3.0.txt > licencia.txt
+$ grep -c freedom licencia.txt
+$ cd ..
+$ cd paso_8
+$ ls
+$ cat instrucciones.txt
+$ curl https://www.rcsb.org/fasta/entry/7PND > proteinas.txt
+$ grep -o -i K proteinas2.txt | wc -l
+$  cd ..
+$ ls
+$ cat instrucciones.txt 
+$ curl https://www.alphafold.ebi.ac.uk/entry/F4HVG8 > peso.txt
+$ ls -la
+$ cd ..
+$ cd paso_7
+$ cat instrucciones.txt
+$ grep -o "Homo sapines" *.fasta | wc -l
+$ grep "Homo sapiens" *.fasta | wc -l
+$ cd ..
+$ cd paso_9
+$ cat instrucciones.txt
+$ cat *md > posta_final.txt
+$ ls
+$ cat posta_final.txt 
+“La libertad se aprende ejerciéndola”Clara Campoamor
+Gracias por sumarte
+a este desafío 

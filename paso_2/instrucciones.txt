@@ -1,0 +1,6 @@
+
+
+¡Esta fue fácil!
+
+INSTRUCCIÓN: Ahora andá al directorio paso_5 y seguí las instrucciones.
+¡Pero cuidado! Ese archivo es muy grande, así que leé sólo las primeras dos líneas

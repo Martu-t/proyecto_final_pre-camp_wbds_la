@@ -1,0 +1,4 @@
+¡Buen trabajo! 
+
+INSTRUCCIONES: Para encontrar la frase secreta tendrás que extraer el texto de todxs los archivos '.md'. 
+Redireccioná lo que encontrás a un archivo de nombre `posta_final.txt`
